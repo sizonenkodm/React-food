@@ -39,6 +39,7 @@ nav {
 }
 
 .card-deacription {
+  padding-left: 3px;
   max-height: 90px;
   overflow: scroll;
   border: 1px solid #9fa8da;
